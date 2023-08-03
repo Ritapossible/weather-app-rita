@@ -25,7 +25,7 @@ Limitation
 1. The app is not 100per reponsive in some mobile devices, it zooms out immediately you enter the landing page, need to be ajusted/zoom in to render properly. 
 
 
-Checkout the live Demo ; [weather-app-rita.netlify.app]
+Checkout the live Demo ; https://weather-app-rita.netlify.app
 
 Veiw the User interface;
 
