@@ -25,14 +25,15 @@ Limitation
 1. The app is not 100per reponsive in some mobile devices, it zooms out immediately you enter the landing page, need to be ajusted/zoom in to render properly. 
 
 
-Checkout the live Demo ; weather-app-rita.netlify.app
+Checkout the live Demo ; [weather-app-rita.netlify.app]
 
 Veiw the User interface;
 
 ![image](https://github.com/Ritapossible/weather-app-rita/assets/124313160/9f3144a8-c3a0-40eb-b976-efd6e5db0167)
 
 
-![image](https://github.com/Ritapossible/weather-app-rita/assets/124313160/79ee798f-08ce-48c0-aaf3-72fa244fc909)
+![image](https://github.com/Ritapossible/weather-app-rita/assets/124313160/5b9e2591-23a7-453f-8c71-19be3af53dac)
+
 
 
 
