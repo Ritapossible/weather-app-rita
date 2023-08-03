@@ -11,7 +11,7 @@ I built this application to learn about the APIs and JavaScript.
 -I learned how to incoroperate real-time dates in an application.
 
 
-Features in the Application.
+#Features in the Application.
 
 -Accurate temperature, humidity and wind-speed.
 
